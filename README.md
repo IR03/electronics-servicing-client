@@ -1,18 +1,18 @@
-## Live Website Link
-https://electronics-servicing-b8beb.web.app
+# **Electronics Servicing**
+## About
 
-## Home Feture Fetures
-Added 5 section in Home Page <br>
-Extra Feature why choose us  <br>
-Animation on service section <br>
+**Electronics Servicing** is kind of a online service provider website.
 
-## Admin Feture
-Booking <br>
-Booking List <br>
-Add Review <br>
-Order List <br>
-Add Sevice <br>
-Make Admin <br>
-Manage Service <br>
+### Technology used to Build this website :
+
+- **React JS**
+- **Node JS**
+- **Firebase**
+- **MongoDB**
+- **Heroku**
+- **ImgBB**
+
+### `Website Link :` [https://electronics-servicing-b8beb.web.app](https://electronics-servicing-b8beb.web.app)
+
 
 
